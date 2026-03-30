@@ -14,7 +14,7 @@ Projeto desenvolvido em Javafocado em lógica de programação e organização d
 
 \## 📚 Contexto
 
-Este projeto faz parte dos meus estudos no curso de\*Análise e Desenvolvimento de Sistemas (ADS), aplicando conceitos de Orientação a Objetos.
+Este projeto faz parte dos meus estudos no curso de Análise e Desenvolvimento de Sistemas (ADS), aplicando conceitos de Orientação a Objetos.
 
 
 
